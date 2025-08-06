@@ -17,7 +17,7 @@
 ## 使用方法
 
 ### 1. 安装NVIDIA Docker运行时
-可参看文章：《》
+可参看文章：[《第二部分：Docker GPU 容器实战指南》](https://blog.lusyoe.com/article/docker-gpu-guide)
 
 ### 2. 构建Docker镜像
 ```bash
